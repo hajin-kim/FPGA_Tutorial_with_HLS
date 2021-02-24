@@ -1,10 +1,10 @@
-# FPGA Tutorial with HLS
+# FPGA with Xilinx Vitis HLS 2020.2
 
 Undergraduate internship Dec. 2020 ~ Feb. 2021  
 [Accelerated Computing Systems Lab](http://acsys.yonsei.ac.kr/) affiliated with CS, Yonsei University, South Korea.  
 Device: xc7z020clg484-1  
 
-### FPGA with Xilinx Vitis HLS 2020.2
+### FPGA Tutorial with HLS
 
 [Lab05 Hello World with Vitis and Vivado](/Lab05%20Hello%20World%20with%20Vitis%20and%20Vivado.md)  
 [Lab06 Working with HLS](/Lab06%20Working%20with%20HLS.md)  

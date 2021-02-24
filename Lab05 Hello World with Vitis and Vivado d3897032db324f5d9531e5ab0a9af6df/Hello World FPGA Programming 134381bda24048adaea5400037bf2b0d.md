@@ -6,7 +6,7 @@ Resume to the ppt **page 42**. Do **page 42~45**. The SDK Terminal was replaced 
 
 ### Troubleshooting: In Device Manager, can't find the Cypress USB port
 
-[Troubleshooting: In Device Manager, can't find the Cypress USB port](https://www.notion.so/Troubleshooting-In-Device-Manager-can-t-find-the-Cypress-USB-port-6de02b931fe342b1b5319725c4dc9c8e) 
+[Troubleshooting: In Device Manager, can't find the Cypress USB port](https://github.com/hajin-kim/FPGA_Tutorial_with_HLS/blob/main/Troubleshootings%20f43673650b7c4eb5b83fa2b7a80452e2/Troubleshooting%20In%20Device%20Manager%2C%20can't%20find%20the%20%206de02b931fe342b1b5319725c4dc9c8e.md) 
 
 ## Programming the Board
 

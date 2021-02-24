@@ -34,4 +34,4 @@ Now done.
 
 If you are doing **Lab06 or later**, see also:
 
-[Makefile Problem](https://www.notion.so/Makefile-Problem-b266174a19ec426eba6e8e8b3119c7d0)
+[Makefile Problem](https://github.com/hajin-kim/FPGA_Tutorial_with_HLS/blob/main/Troubleshootings%20f43673650b7c4eb5b83fa2b7a80452e2/Makefile%20Problem%20b266174a19ec426eba6e8e8b3119c7d0.md)

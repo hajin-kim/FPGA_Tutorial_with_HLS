@@ -13,10 +13,10 @@ Device: xc7z020clg484-1
 
 ---
 
-### (Next) -2- FPGA AXI and VHDL
+#### (Next) -2- FPGA AXI and VHDL
 
 [https://github.com/hajin-kim/FPGA_AXI_and_VHDL](https://github.com/hajin-kim/FPGA_AXI_and_VHDL)  
 
-### (Next) -3- FPGA Tiny CPU
+#### (Next) -3- FPGA Tiny CPU
 
 [https://github.com/hajin-kim/FPGA_Tiny_CPU](https://github.com/hajin-kim/FPGA_Tiny_CPU)  

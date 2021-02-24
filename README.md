@@ -11,3 +11,11 @@ Device: xc7z020clg484-1
 [Lab08 Matrix Multiplier Design](/Lab08%20Matrix%20Multiplier%20Design.md)  
 [Lab08 srcs](/Lab08%20srcs)  
 [Troubleshootings](/Troubleshootings.md)  
+
+### FPGA AXI and VHDL
+
+[https://github.com/hajin-kim/FPGA_AXI_and_VHDL](https://github.com/hajin-kim/FPGA_AXI_and_VHDL)  
+
+### FPGA Tiny CPU
+
+[https://github.com/hajin-kim/FPGA_Tiny_CPU](https://github.com/hajin-kim/FPGA_Tiny_CPU)  
